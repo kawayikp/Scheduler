@@ -1,8 +1,5 @@
 package scheduling;
 
-/**
- * Created by Juntong Liu.
- */
 import java.util.List;
 public interface Scheduler {
     // a new process come.
