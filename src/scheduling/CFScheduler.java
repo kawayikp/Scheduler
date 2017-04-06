@@ -1,8 +1,5 @@
 package scheduling;
 
-/**
- * Created by Yu Wang.
- */
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
