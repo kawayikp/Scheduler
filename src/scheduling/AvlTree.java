@@ -1,8 +1,5 @@
 package scheduling;
 
-/**
- * Created by Yu Wang.
- */
 
 /*
  * Because avl tree has the same performance as red-black tree with O(log N) time to insert, select and remove a node.
