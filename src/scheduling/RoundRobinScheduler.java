@@ -1,8 +1,5 @@
 package scheduling;
 
-/**
- * Created by Yue Liu.
- */
 
 import java.util.Scanner;
 import java.util.List;
